@@ -43,6 +43,7 @@
 
 ## Games
 一些尚未被AI取代的能力：
+
 ![League of Legends](https://img.shields.io/badge/League_of_Legends-0A1428?style=flat-square&logo=riotgames&logoColor=C89B3C)
 ![Overwatch](https://img.shields.io/badge/Overwatch-F99E1A?style=flat-square)
 ![Factorio](https://img.shields.io/badge/Factorio-3B2F2F?style=flat-square)
