@@ -12,12 +12,10 @@
 
 ## Focus
 
-最近主要在两条线来回切：
+- 存储系统：SSD、KV engine、LSM-tree、cache
+- AI Agent 工程：Agent 开发、长程 loop、自动化任务推进、复杂项目里的 vibe coding
 
-- 存储系统：SSD、KV engine、LSM-tree、cache、benchmark/perf，关心数据怎么一路落到盘上
-- AI Agent 工程：Agent 开发、长程 loop、自动化任务推进、复杂项目里的 vibe coding 工作流
-
-我喜欢能持续推进、能留痕、能复盘的工具链。Agent 可以大胆跑，但代码最后还是要回到工程质量上。
+我喜欢能持续推进、能留痕、能复盘的自动工具，Agent 可以大胆跑，但代码最后还是要回到工程质量上。
 
 ## Stack & Topics
 
@@ -25,13 +23,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white)
 ![SSD](https://img.shields.io/badge/SSD-0F766E?style=flat-square)
 ![KV Store](https://img.shields.io/badge/KV_Store-1D4ED8?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
 ![Agent Loop](https://img.shields.io/badge/Agent_Loop-6D28D9?style=flat-square)
-![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=white)
 
 ## Stats
 
@@ -44,13 +39,11 @@
 ## Writing
 
 [ozqi.github.io](https://ozqi.github.io/)  
-写一些存储、Agent、Linux 工具链、Git/Vim/Make/FIO 和性能分析相关的笔记。
+
 
 ## Games
-
+一些尚未被AI取代的能力：
 ![League of Legends](https://img.shields.io/badge/League_of_Legends-0A1428?style=flat-square&logo=riotgames&logoColor=C89B3C)
 ![Overwatch](https://img.shields.io/badge/Overwatch-F99E1A?style=flat-square)
 ![Factorio](https://img.shields.io/badge/Factorio-3B2F2F?style=flat-square)
 ![Oxygen Not Included](https://img.shields.io/badge/Oxygen_Not_Included-4F46E5?style=flat-square)
-
-网游会打 LOL 和守望先锋；单机更喜欢 Factorio、缺氧这种能把系统越调越顺的游戏。
