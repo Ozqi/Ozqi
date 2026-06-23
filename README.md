@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ziqi Liu
 
-<!--
-**Ozqi/Ozqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on systems, databases, and storage. I use this profile and my blog to keep notes from engineering practice, paper reading, and long-term technical review.
 
-Here are some ideas to get you started:
+## Current Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- System design and distributed systems
+- Database internals and LSM-tree storage engines
+- High-performance storage, CXL, ZNS, and caching algorithms
+- Development workflow, Linux tooling, and performance analysis
+
+## Writing
+
+- Blog: [ozqi.github.io](https://ozqi.github.io/)
+- Recent topics: Git, Linux, Vim, Make, FIO, and performance analysis
+
+## Contact
+
+- GitHub: [@Ozqi](https://github.com/Ozqi)
+- Email: [1021578619@qq.com](mailto:1021578619@qq.com)
