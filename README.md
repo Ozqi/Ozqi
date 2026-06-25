@@ -2,7 +2,7 @@
 
 # Ziqi Liu
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=SSD+%2F+KV%3A+from+API+to+flash;Agents+that+run+longer+than+one+prompt;Vibe+coding+complex+projects%2C+then+tightening+the+engineering)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=SSD+%2F+KV%3A+from+API+to+flash;Build+without+coding%2C+review+with+discipline;Agents+that+can+carry+a+project+loop)
 
 [![Blog](https://img.shields.io/badge/Blog-ozqi.github.io-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://ozqi.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ozqi-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Ozqi)
