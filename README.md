@@ -25,11 +25,15 @@
 ![KV Store](https://img.shields.io/badge/KV_Store-1D4ED8?style=flat-square)
 ![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-7C3AED?style=flat-square)
 
-## Stats
+## Pac-Man
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ozqi&show_icons=true&hide_title=true&hide_border=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozqi/Ozqi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ozqi/Ozqi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ozqi/Ozqi/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
