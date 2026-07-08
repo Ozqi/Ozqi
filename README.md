@@ -25,25 +25,12 @@
 ![KV Store](https://img.shields.io/badge/KV_Store-1D4ED8?style=flat-square)
 ![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-7C3AED?style=flat-square)
 
-## Pac-Man
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozqi/Ozqi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ozqi/Ozqi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ozqi/Ozqi/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
 ## Writing
 
 [ozqi.github.io](https://ozqi.github.io/)  
 
 
 ## Games
-一些尚未被AI取代的能力：
 
 ![League of Legends](https://img.shields.io/badge/League_of_Legends-0A1428?style=flat-square&logo=riotgames&logoColor=C89B3C)
 ![Overwatch](https://img.shields.io/badge/Overwatch-F99E1A?style=flat-square)
